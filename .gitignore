@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+# Virtual environments
+venv/
+.env/
+
+# PyCharm
+.idea/
+
+# Data (обычно не коммитят)
+data/
+*.csv
+*.npy
+*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
+
+drom_archive_2007-2025.csv
