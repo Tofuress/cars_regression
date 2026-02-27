@@ -13,10 +13,6 @@ venv/
 .idea/
 
 # Data (обычно не коммитят)
-data/
-*.csv
-*.npy
-*.pkl
 
 # OS
 .DS_Store
