@@ -1,4 +1,4 @@
-# Python
+# Python cache
 __pycache__/
 *.pyc
 *.pyo
@@ -11,16 +11,17 @@ venv/
 
 # PyCharm
 .idea/
+
+# Jupyter Notebook outputs (опционально)
+*.ipynb_checkpoints
+
+# Large files / data / models
 *.pkl
 *.csv
-
-# Data (обычно не коммитят)
-
-# OS
-.DS_Store
-Thumbs.db
-
 drom_archive_2007-2025.csv
 drom_archive_cleaned_2018-2025.csv
-
 rf_model.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
