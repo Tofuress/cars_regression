@@ -20,3 +20,5 @@ Thumbs.db
 
 drom_archive_2007-2025.csv
 drom_archive_cleaned_2018-2025.csv
+
+rf_model.pkl
