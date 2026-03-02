@@ -11,6 +11,7 @@ venv/
 
 # PyCharm
 .idea/
+.pkl
 
 # Data (обычно не коммитят)
 
