@@ -18,9 +18,9 @@ venv/
 # Large files / data / models
 *.pkl
 *.csv
-drom_archive_2007-2025.csv
-drom_archive_cleaned_2018-2025.csv
-rf_model.pkl
+data/drom_archive_2007-2025.csv
+data/drom_archive_cleaned_2018-2025.csv
+models/rf_model.pkl
 
 # OS files
 .DS_Store
